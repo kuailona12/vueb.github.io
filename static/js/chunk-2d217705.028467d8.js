@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d217705"],{c772:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  优惠券模板\n")])},u=[],r={},s=r,a=t("2877"),i=Object(a["a"])(s,c,u,!1,null,"e793b3be",null);e["default"]=i.exports}}]);
